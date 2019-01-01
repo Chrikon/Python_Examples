@@ -1,4 +1,4 @@
-## Create a new repository on the command line
+## Create a new repository from the command line
     ````
     echo "# Python_Examples"
     cd /path to your local project/
@@ -8,6 +8,8 @@
     git remote add origin https://github.com/Chrikon/Python_Examples.git
     git push -u origin master
     ````
+---
+
 ## or push an existing repository from the command line
   ````
   git remote add origin https://github.com/Chrikon/Python_Examples.git
